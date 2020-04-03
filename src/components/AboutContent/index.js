@@ -31,84 +31,15 @@ export default function AboutContent() {
 	    	<section className="list container">
 	    		<section className="row">
 	    			<section className="col-6">
-	    				<a href="https://github.com/adrianoavelino">
-							<FaGithub className="github-btn" />
-								Adriano Avelino				    			
-		    			</a>
 
-		    			<a href="https://github.com/AnaSelma">
-							<FaGithub className="github-btn" />
-								Ana Selma			    			
-		    			</a>
-
-		    			<a href="https://github.com/arturmnt">
-							<FaGithub className="github-btn" />
-							  Artur Meissner			    	
-		    			</a>
-
-		    			<a href="https://github.com/CaioFML">
-							<FaGithub className="github-btn" />
-							  Caio Motta
-							</a>
-							
-							<a href="https://github.com/kele90">
-							<FaGithub className="github-btn" />
-								César Martínez 
-			    		</a>		    			
-
-		    			<a href="https://github.com/chrystiamweb">
-							<FaGithub className="github-btn" />
-								Chrystiam Andrade
-			    		</a>
-							
-							<a href="https://github.com/DiegoRamires">
-							<FaGithub className="github-btn" />
-								Diego Gonçalves
-			    		</a>
-
-		    			<a href="https://github.com/dbnkocao">
-			    		<FaGithub className="github-btn" />
-								Daniel B.do Nascimento			    			
-		    			</a>
-
-		    			<a href="">
-							<FaGithub className="github-btn" />
-								Fabricio Comeli Garcia B			    			
-		    			</a>
-
-		    			<a href="https://github.com/f-vargas">
-			    		<FaGithub className="github-btn" />
-								Frabricio Vargas			    			
-		    			</a>
-
-		    			<a href="https://github.com/GesielFreitas">
-			    		<FaGithub className="github-btn" />	
-								Gesiel Freitas			    			
-		    			</a>
-		    		</section>
-
-		    		<section className="col-6">
-		    			<a href="https://github.com/Guiarrd">
-			    		<FaGithub className="github-btn" />							
-								Guilherme Arruda			    		
-		    			</a>
-
-		    			<a href="https://github.com/igornichele">
-			    		<FaGithub className="github-btn" />
-								Igor Nichele			    			
-		    			</a>
-
-		    			<a href="https://github.com/geonizeli">
+							<h4>Frontend</h4>
+	    				
+							<a href="https://github.com/geonizeli">
 			    		<FaGithub className="github-btn" />
 								João Geonizeli								
 		    			</a>
 
-		    			<a href="https://github.com/lglinardello">
-			    		<FaGithub className="github-btn" />
-								Lilian			    			
-		    			</a>
-
-		    			<a href="https://github.com/brandaoplaster">
+							<a href="https://github.com/brandaoplaster">
 			    		<FaGithub className="github-btn" />
 								Lucas Brandao			    			
 		    			</a>
@@ -116,22 +47,118 @@ export default function AboutContent() {
 		    			<a href="https://github.com/Lucasdfg07">
 			    		<FaGithub className="github-btn" />
 								Lucas Siqueira Fernandes			    		
+		    			</a>						
+
+		    			<a href="https://github.com/AnaSelma">
+							<FaGithub className="github-btn" />
+								Ana Selma			    			
+		    			</a>					
+
+							<a href="https://github.com/f-vargas">
+			    		<FaGithub className="github-btn" />
+								Fabricio Vargas			    			
 		    			</a>		    			
 
-		    			<a href="https://github.com/tiagompalte">
+							<h4>Backend</h4>
+
+							<a href="https://github.com/adrianoavelino">
+							<FaGithub className="github-btn" />
+								Adriano Avelino				    			
+		    			</a>
+
+							<a href="https://github.com/arturmnt">
+							<FaGithub className="github-btn" />
+							  Artur Meissner			    	
+		    			</a>
+
+		    			<a href="https://github.com/CaioFML">
+							<FaGithub className="github-btn" />
+							  Caio Motta
+							</a>							
+
+							<a href="https://github.com/dbnkocao">
+			    		<FaGithub className="github-btn" />
+								Daniel B.do Nascimento			    			
+		    			</a>		    			
+							
+							<a href="https://github.com/DiegoRamires">
+							<FaGithub className="github-btn" />
+								Diego Gonçalves
+			    		</a>		    			
+
+							<a href="">
+			    			<FaGithub className="github-btn" />
+								Flávio da Silva Henrique
+		    			</a>
+
+							<a href="https://github.com/lglinardello">
+			    		<FaGithub className="github-btn" />
+								Lilian			    			
+		    			</a>
+
+						</section>
+
+						<section className="col-6">	
+
+							<h4>chatBot</h4>
+
+		    			<a href="https://github.com/chrystiamweb">
+							<FaGithub className="github-btn" />
+								Chrystiam Andrade
+			    		</a>
+
+							<a href="https://github.com/igornichele">
+			    		<FaGithub className="github-btn" />
+								Igor Nichele			    			
+		    			</a>
+
+							<a href="https://github.com/lsolino">
+			    		<FaGithub className="github-btn" />
+								Luan Soliño			    			
+		    			</a>
+
+							<a href="https://github.com/tiagompalte">
 			    		<FaGithub className="github-btn" />
 								Tiago Mariani Palte		    			
 		    			</a>
 
-		    			<a href="https://github.com/toticavalcantihttps://github.com/toticavalcanti">
+							<a href="https://github.com/toticavalcantihttps://github.com/toticavalcanti">
 			    		<FaGithub className="github-btn" />
 								Toti Cavalcanti			    			
+		    			</a>		    				    		 			
+
+							<h4>Web Crawlers</h4>
+
+							<a href="https://github.com/kele90">
+							<FaGithub className="github-btn" />
+								César Martínez 
+			    		</a>
+
+							<a href="">
+							<FaGithub className="github-btn" />
+								Fabricio Comeli Garcia B			    			
 		    			</a>
 
-		    			<a href="">
-			    			<FaGithub className="github-btn" />
-								
+							<a href="https://github.com/GesielFreitas">
+			    		<FaGithub className="github-btn" />	
+								Gesiel Freitas			    			
+		    			</a>	
+						
+		    			<a href="https://github.com/Guiarrd">
+			    		<FaGithub className="github-btn" />							
+								Guilherme Arruda			    		
+		    			</a>						
+
+							<a href="https://github.com/fernandoepm1">
+			    		<FaGithub className="github-btn" />							
+								Fernando Eufrasio		    		
 		    			</a>
+
+							<a href="https://github.com/">
+			    		<FaGithub className="github-btn" />							
+									    		
+		    			</a>
+		    			
 		    		</section>
 	    		</section>
 	    	</section>
