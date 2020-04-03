@@ -32,105 +32,105 @@ export default function AboutContent() {
 	    		<section className="row">
 	    			<section className="col-6">
 	    				<a href="https://github.com/adrianoavelino">
-			    			- Adriano Avelino
-			    			<img src={icon} alt="github icon" />
+							<FaGithub className="github-btn" />
+								Adriano Avelino				    			
 		    			</a>
 
 		    			<a href="https://github.com/AnaSelma">
-			    			- Ana Selma
-			    			<img src={icon} alt="github icon" />
+							<FaGithub className="github-btn" />
+								Ana Selma			    			
 		    			</a>
 
 		    			<a href="https://github.com/arturmnt">
-			    			-  Artur Meissner
-			    			<img src={icon} alt="github icon" />
+							<FaGithub className="github-btn" />
+							  Artur Meissner			    	
 		    			</a>
 
 		    			<a href="https://github.com/CaioFML">
-			    			-  Caio Motta
-			    			<img src={icon} alt="github icon" />
-
-		    			</a><a href="https://github.com/kele90">
-			    			- César Martínez 
-			    			<img src={icon} alt="github icon" />
-		    			</a>		    			
+							<FaGithub className="github-btn" />
+							  Caio Motta
+							</a>
+							
+							<a href="https://github.com/kele90">
+							<FaGithub className="github-btn" />
+								César Martínez 
+			    		</a>		    			
 
 		    			<a href="https://github.com/chrystiamweb">
-			    			-  Chrystiam Andrade
-			    			<img src={icon} alt="github icon" />
-		    			</a>
+							<FaGithub className="github-btn" />
+								Chrystiam Andrade
+			    		</a>
 							
 							<a href="https://github.com/DiegoRamires">
-			    			-  Diego Gonçalves
-			    			<img src={icon} alt="github icon" />
-		    			</a>
+							<FaGithub className="github-btn" />
+								Diego Gonçalves
+			    		</a>
 
 		    			<a href="https://github.com/dbnkocao">
-			    			- Daniel B.do Nascimento
-
-			    			<img src={icon} alt="github icon" />
+			    		<FaGithub className="github-btn" />
+								Daniel B.do Nascimento			    			
 		    			</a>
 
 		    			<a href="">
-			    			-  Fabricio Comeli Garcia B
-			    			<img src={icon} alt="github icon" />
+							<FaGithub className="github-btn" />
+								Fabricio Comeli Garcia B			    			
 		    			</a>
 
 		    			<a href="https://github.com/f-vargas">
-			    			-  Frabricio Vargas
-			    			<img src={icon} alt="github icon" />
+			    		<FaGithub className="github-btn" />
+								Frabricio Vargas			    			
 		    			</a>
 
 		    			<a href="https://github.com/GesielFreitas">
-			    			-  Gesiel Freitas
-			    			<img src={icon} alt="github icon" />
+			    		<FaGithub className="github-btn" />	
+								Gesiel Freitas			    			
 		    			</a>
 		    		</section>
 
 		    		<section className="col-6">
 		    			<a href="https://github.com/Guiarrd">
-			    			-  Guilherme Arruda
-			    			<img src={icon} alt="github icon" />
+			    		<FaGithub className="github-btn" />							
+								Guilherme Arruda			    		
 		    			</a>
 
 		    			<a href="https://github.com/igornichele">
-			    			-  Igor Nichele
-			    			<img src={icon} alt="github icon" />
+			    		<FaGithub className="github-btn" />
+								Igor Nichele			    			
 		    			</a>
 
 		    			<a href="https://github.com/geonizeli">
-			    			-  João Geonizeli
-								<img src={icon} alt="github icon" />
+			    		<FaGithub className="github-btn" />
+								João Geonizeli								
 		    			</a>
 
 		    			<a href="https://github.com/lglinardello">
-			    			- Lilian
-			    			<img src={icon} alt="github icon" />
+			    		<FaGithub className="github-btn" />
+								Lilian			    			
 		    			</a>
 
 		    			<a href="https://github.com/brandaoplaster">
-			    			-  Lucas Brandao
-			    			<img src={icon} alt="github icon" />
+			    		<FaGithub className="github-btn" />
+								Lucas Brandao			    			
 		    			</a>
 
 		    			<a href="https://github.com/Lucasdfg07">
-			    			-  Lucas Siqueira Fernandes
-			    			<img src={icon} alt="github icon" />
+			    		<FaGithub className="github-btn" />
+								Lucas Siqueira Fernandes			    		
 		    			</a>		    			
 
 		    			<a href="https://github.com/tiagompalte">
-			    			-  Tiago Mariani Palte
-			    			<img src={icon} alt="github icon" />
+			    		<FaGithub className="github-btn" />
+								Tiago Mariani Palte		    			
 		    			</a>
 
 		    			<a href="https://github.com/toticavalcantihttps://github.com/toticavalcanti">
-			    			-  Toti Cavalcanti
-			    			<img src={icon} alt="github icon" />
+			    		<FaGithub className="github-btn" />
+								Toti Cavalcanti			    			
 		    			</a>
 
 		    			<a href="">
-			    			-  
-			    			<img src={icon} alt="github icon" />
+			    			<FaGithub className="github-btn" />
+								
 		    			</a>
 		    		</section>
 	    		</section>
