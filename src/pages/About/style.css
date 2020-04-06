@@ -1,0 +1,40 @@
+.about {
+	color: white;
+	padding: 20px 0px;
+	text-align: center;
+	max-width: 800px;
+	margin: auto;
+}
+
+
+
+.colaborators {
+	background-color: rgba(10,10,10,.5);
+	padding: 20px;
+}
+
+
+.colaborators-profiles {
+	display: grid;
+	grid-template-columns: 1fr 1fr;
+}
+
+.profile {
+	margin: 10px;
+	display: flex;
+	margin: 10px auto;
+	font-size: 17px;
+}
+
+.profile-name {
+	margin: auto;
+}
+
+.profile svg {
+	margin-left: 8px;
+	background-color: #000000;
+	padding: 6px;
+	width: 60px;
+	border-radius: 20px;
+	font-size: 21px;
+}

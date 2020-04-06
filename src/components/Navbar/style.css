@@ -3,8 +3,8 @@ nav {
   justify-content: space-around;
   display: flex;
   height: 50px;
-  background-color: #0000004b;
   text-align: center;
+  font-size: 18px;
 }
 
 .nav-buttons {
@@ -13,8 +13,11 @@ nav {
   color: #FFF;
 }
 
+.nav-buttons a {
+  padding: 0px 20px;
+}
+
 nav a {
-  font-size: 18px;
   color: #FFF;
   text-decoration: none;
 }
